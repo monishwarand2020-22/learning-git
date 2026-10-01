@@ -1,1 +1,3 @@
-this is code we have to understand clearly how code work behind the scene 
+this is code we have to understand clearly how code work behind the scene
+
+i uderstand how code works actually
